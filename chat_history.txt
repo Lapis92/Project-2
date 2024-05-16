@@ -1,0 +1,81 @@
+Jordan: hi
+Amir: hi
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:27:12 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:29:20 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:29:25 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:30:06 2024
+
+Jordan: S
+Jordan: aasda
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:38:55 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:40:50 2024
+
+Amir: s
+Jorjor: s
+Jorjor: asfa
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:43:10 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:46:39 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:47:47 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:48:19 2024
+
+–––––––––––––––––––––
+Server terminated at Wed May 15 23:51:15 2024
+
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:07:32 2024
+
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:07:44 2024
+
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:09:02 2024
+
+Amir: S
+Amir: s
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:09:40 2024
+
+Amir: s
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:13:49 2024
+
+Amir: s
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:14:37 2024
+
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:14:59 2024
+
+S: S
+S: S
+S: S
+S: S
+S: S
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:17:41 2024
+
+Amir: A
+Jordan: s
+Jordan: Amir
+Amir: Its worse now oops
+Soleymani: s
+–––––––––––––––––––––
+Server terminated at Thu May 16 13:44:24 2024
+
